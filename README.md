@@ -26,21 +26,12 @@ The proceedings of top conference in 2022 on the topic of **Reinforcement Learni
 * [x] IJCAI'2022
 * [x] NeurIPS'2022
 
-## Table of Contents
-
-- [AAAI Conference on Artificial Intelligence (AAAI'2022)](#AAAI-Conference-on-Artificial-Intelligence)
-- [International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2022)](#International-Conference-on-Autonomous-Agents-and-Multiagent-Systems)
-- [International Conference on Learning Representations (ICLR'2022)](#International-Conference-on-Learning-Representations)
-- [International Conference on Machine Learning (ICML'2022)](#International-Conference-on-Machine-Learning)
-- [International Conference on Robotics and Automation (ICRA'2022)](#International-Conference-on-Robotics-and-Automation)
-- [International Joint Conference on Artificial Intelligence (IJCAI'2022)](#International-Joint-Conference-on-Artificial-Intelligence)
-- [Annual Conference on Neural Information Processing Systems (NeurIPS'2022)](#Annual-Conference-on-Neural-Information-Processing-Systems)
-
 ## Contributing
 
 <p align="center">
   <img src="./we-need-you.jpeg" alt="We Need You!">
 </p>
+
 
 **Markdown format：**
 
@@ -55,7 +46,15 @@ Please help to contribute this list by contacting me or add pull request.
 
 For any questions, feel free to contact me 📮.
 
+## Table of Contents
 
+- [AAAI Conference on Artificial Intelligence (AAAI'2022)](#AAAI-Conference-on-Artificial-Intelligence)
+- [International Conference on Autonomous Agents and Multiagent Systems (AAMAS'2022)](#International-Conference-on-Autonomous-Agents-and-Multiagent-Systems)
+- [International Conference on Learning Representations (ICLR'2022)](#International-Conference-on-Learning-Representations)
+- [International Conference on Machine Learning (ICML'2022)](#International-Conference-on-Machine-Learning)
+- [International Conference on Robotics and Automation (ICRA'2022)](#International-Conference-on-Robotics-and-Automation)
+- [International Joint Conference on Artificial Intelligence (IJCAI'2022)](#International-Joint-Conference-on-Artificial-Intelligence)
+- [Annual Conference on Neural Information Processing Systems (NeurIPS'2022)](#Annual-Conference-on-Neural-Information-Processing-Systems)
 
 ## AAAI Conference on Artificial Intelligence
 
