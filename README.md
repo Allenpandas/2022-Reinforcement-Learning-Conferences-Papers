@@ -16,6 +16,16 @@ The proceedings of top conference in 2022 on the topic of **Reinforcement Learni
 | 2018-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
 | 2017-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
 
+## Todo
+
+* [x] AAAI'2022
+* [ ] AAMAS'2022
+* [x] ICLR'2022
+* [x] ICML'2022
+* [x] ICRA'2022
+* [x] IJCAI'2022
+* [x] NeurIPS'2022
+
 ## Table of Contents
 
 - [AAAI Conference on Artificial Intelligence (AAAI'2022)](#AAAI-Conference-on-Artificial-Intelligence)
@@ -38,7 +48,7 @@ The proceedings of top conference in 2022 on the topic of **Reinforcement Learni
 - **Paper Name**.
   [[pdf](link)]
   [[code](link)]
-  - Author 1, Author 2, and Author 3.
+  - Author 1, Author 2, and Author 3. *Conference name*.
 ```
 
 Please help to contribute this list by contacting me or add pull request. 
