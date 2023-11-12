@@ -18,8 +18,9 @@ The proceedings of top conference in 2022 on the topic of **Reinforcement Learni
 
 ## Todo
 
+* [x] Related repository
 * [x] AAAI'2022
-* [ ] AAMAS'2022
+* [x] AAMAS'2022
 * [x] ICLR'2022
 * [x] ICML'2022
 * [x] ICRA'2022
@@ -195,6 +196,90 @@ For any questions, feel free to contact me 📮.
 
 ## International Conference on Autonomous Agents and Multiagent Systems
 
+ - **Multi-Objective Reinforcement Learning with Non-Linear Scalarization.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p9.pdf)]
+   - Mridul Agarwal, Vaneet Aggarwal, Tian Lan. *AAMAS 2022*.
+ - **Be Considerate: Avoiding Negative Side Effects in Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p18.pdf)]
+   - Parand Alizadeh Alamdari, Toryn Q. Klassen, Rodrigo Toro Icarte, Sheila A. McIlraith. *AAMAS 2022*.
+ - **Unbiased Asymmetric Reinforcement Learning under Partial Observability.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p44.pdf)]
+   - Andrea Baisero, Christopher Amato. *AAMAS 2022*.
+ - **Interpretable Preference-based Reinforcement Learning with Tree-Structured Reward Functions.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p118.pdf)]
+   - Tom Bewley, Freddy Lécué. *AAMAS 2022*.
+ - **Best-Response Bayesian Reinforcement Learning with Bayes-adaptive POMDPs for Centaurs.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p235.pdf)]
+   - Mustafa Mert Çelikok, Frans A. Oliehoek, Samuel Kaski. *AAMAS 2022*.
+ - **Individual-Level Inverse Reinforcement Learning for Mean Field Games.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p253.pdf)]
+   - Yang Chen, Libo Zhang, Jiamou Liu, Shuyue Hu. *AAMAS 2022*.
+ - **Scalable Multi-Agent Model-Based Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p381.pdf)]
+   - Vladimir Egorov, Alexey Shpilman. *AAMAS 2022*.
+ - **Concave Utility Reinforcement Learning: The Mean-field Game Viewpoint.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p489.pdf)]
+   - Matthieu Geist, Julien Pérolat, Mathieu Laurière, Romuald Elie, Sarah Perrin, Olivier Bachem, Rémi Munos, Olivier Pietquin. *AAMAS 2022*.
+ - **Autonomous Swarm Shepherding Using Curriculum-Based Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p633.pdf)]
+   - Aya Hussein, Eleni Petraki, Sondoss Elsawah, Hussein A. Abbass. *AAMAS 2022*.
+ - **Translating Omega-Regular Specifications to Average Objectives for Model-Free Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p732.pdf)]
+   - Milad Kazemi, Mateo Perez, Fabio Somenzi, Sadegh Soudjani, Ashutosh Trivedi, Alvaro Velasquez. *AAMAS 2022*.
+ - **Disentangling Successor Features for Coordination in Multi-agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p751.pdf)]
+   - Seung Hyun Kim, Neale Van Stralen, Girish Chowdhary, Huy T. Tran. *AAMAS 2022*.
+ - **CAPS: Comprehensible Abstract Policy Summaries for Explaining Reinforcement Learning Agents.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p889.pdf)]
+   - Joe McCalmon, Thai Le, Sarra Alqahtani, Dongwon Lee. *AAMAS 2022*.
+ - **Deep Reinforcement Learning for Active Wake Control.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p944.pdf)]
+   - Grigory Neustroev, Sytze P. E. Andringa, Remco A. Verzijlbergh, Mathijs Michiel de Weerdt. *AAMAS 2022*.
+ - **Characterizing Attacks on Deep Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1010.pdf)]
+   - Xinlei Pan, Chaowei Xiao, Warren He, Shuang Yang, Jian Peng, Mingjie Sun, Mingyan Liu, Bo Li, Dawn Song. *AAMAS 2022*.
+ - **GCS: Graph-Based Coordination Strategy for Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1128.pdf)]
+   - Jingqing Ruan, Yali Du, Xuantang Xiong, Dengpeng Xing, Xiyun Li, Linghui Meng, Haifeng Zhang, Jun Wang, Bo Xu. *AAMAS 2022*.
+ - **Decoupled Reinforcement Learning to Stabilise Intrinsically-Motivated Exploration.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1146.pdf)]
+   - Lukas Schäfer, Filippos Christianos, Josiah P. Hanna, Stefano V. Albrecht. *AAMAS 2022*.
+ - **Sympathy-based Reinforcement Learning Agents.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1164.pdf)]
+   - Manisha Senadeera, Thommen George Karimpanal, Sunil Gupta, Santu Rana. *AAMAS 2022*.
+ - **Off-Policy Evolutionary Reinforcement Learning with Maximum Mutations.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf)]
+   - Karush Suri. *AAMAS 2022*.
+ - ** Leveraging Hierarchy in Multimodal Perception for Robust Reinforcement Learning Agents.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf)]
+   - Miguel Vasco, Hang Yin, Francisco S. Melo, Ana Paiva. *AAMAS 2022*.
+ - **Agent-Temporal Attention for Reward Redistribution in Episodic Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1391.pdf)]
+   - Baicen Xiao, Bhaskar Ramasubramanian, Radha Poovendran. *AAMAS 2022*.
+ - **SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)]
+   - Zhiwei Xu, Yunpeng Bai, Dapeng Li, Bin Zhang, Guoliang Fan. *AAMAS 2022*.
+ - **Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1418.pdf)]
+   - Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo. *AAMAS 2022*.
+ - **Adaptive Incentive Design with Multi-Agent Meta-Gradient Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1436.pdf)]
+   - Jiachen Yang, Ethan Wang, Rakshit Trivedi, Tuo Zhao, Hongyuan Zha. *AAMAS 2022*.
+ - **Local Advantage Networks for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1524.pdf)]
+   - Raphaël Avalos, Mathieu Reymond, Ann Nowé, Diederik M. Roijers. *AAMAS 2022*.
+ - **Status-quo Policy Gradient in Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1530.pdf)]
+   - Pinkesh Badjatiya, Mausoom Sarkar, Nikaash Puri, Jayakumar Subramanian, Abhishek Sinha, Siddharth Singh, Balaji Krishnamurthy. *AAMAS 2022*.
+ - **Adaptive Aggregation Weight Assignment for Federated Learning: A Deep Reinforcement Learning Approach.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1610.pdf)]
+   - Enwei Guo, Xiumin Wang, Weiwei Wu. *AAMAS 2022*.
+ - **Learning to Advise and Learning from Advice in Cooperative Multiagent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1645.pdf)]
+   - Yue Jin, Shuangqing Wei, Jian Yuan, Xudong Zhang. *AAMAS 2022*.
+ - **Improving Generalization with Cross-State Behavior Matching in Deep Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1675.pdf)]
+   - Guan-Ting Liu, Guan-Yu Lin, Pu-Jen Cheng. *AAMAS 2022*.
+ - **Multimodal Reinforcement Learning with Effective State Representation Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1684.pdf)]
+   - Jinming Ma, Yingfeng Chen, Feng Wu, Xianpeng Ji, Yu Ding. *AAMAS 2022*.
+ - **Reinforcement Learning for Traffic Signal Control Optimization: A Concept for Real-World Implementation.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1699.pdf)]
+   - Henri Meess, Jeremias Gerner, Daniel Hein, Stefanie Schmidtner, Gordon Elger. *AAMAS 2022*.
+ - **Agent-Time Attention for Sparse Rewards Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1723.pdf)]
+   - Jennifer She, Jayesh K. Gupta, Mykel J. Kochenderfer. *AAMAS 2022*.
+ - **Environment Guided Interactive Reinforcement Learning: Learning from Binary Feedback in High-Dimensional Robot Task Environments.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1726.pdf)]
+   - Isaac S. Sheidlower, Elaine Schaertl Short, Allison Moore. *AAMAS 2022*.
+ - **Speeding up Deep Reinforcement Learning through Influence-Augmented Local Simulators.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1735.pdf)]
+   - Miguel Suau, Jinke He, Matthijs T. J. Spaan, Frans A. Oliehoek. *AAMAS 2022*.
+ - **Near On-Policy Experience Sampling in Multi-Objective Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1756.pdf)]
+   - Shang Wang, Mathieu Reymond, Athirai A. Irissappane, Diederik M. Roijers. *AAMAS 2022*.
+ - **Performance of Deep Reinforcement Learning for High Frequency Market Making on Actual Tick Data.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1765.pdf)]
+   - Ziyi Xu, Xue Cheng, Yangbo He. *AAMAS 2022*.
+ - **Off-Policy Correction For Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1774.pdf)]
+   - Michal Zawalski, Blazej Osinski, Henryk Michalewski, Piotr Milos. *AAMAS 2022*.
+ - **Towards Anomaly Detection in Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1799.pdf)]
+   - Robert Müller, Steffen Illium, Thomy Phan, Tom Haider, Claudia Linnhoff-Popien. *AAMAS 2022*.
+ - **Exploration and Communication for Partially Observable Collaborative Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1829.pdf)]
+   - Raphaël Avalos. *AAMAS 2022*.
+ - **Towards Multi-Agent Interactive Reinforcement Learning for Opportunistic Software Composition in Ambient Environments.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1839.pdf)]
+   - Kevin Delcourt. *AAMAS 2022*.
+ - **Model-free and Model-based Reinforcement Learning, the Intersection of Learning and Planning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1849.pdf)]
+   - Piotr Januszewski. *AAMAS 2022*.
+ - **Task Generalisation in Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1863.pdf)]
+   - Lukas Schäfer. *AAMAS 2022*.
+ - **Empathetic Reinforcement Learning Agents.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1866.pdf)]
+   - Manisha Senadeera. *AAMAS 2022*.
 
 
 ## International Conference on Learning Representations
