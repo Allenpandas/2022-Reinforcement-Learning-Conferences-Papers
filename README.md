@@ -4,13 +4,15 @@ The proceedings of top conference in 2022 on the topic of **Reinforcement Learni
 
 ## Related Repository
 
-- [2023-Reinforcement-Learning-Conferences-Papers](https://github.com/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers)
-- [2022-Reinforcement-Learning-Conferences-Papers](https://github.com/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers)
-- 2021-Reinforcement-Learning-Conferences-Papers（Coming Soon）
-- 2020-Reinforcement-Learning-Conferences-Papers（Coming Soon）
-- 2019-Reinforcement-Learning-Conferences-Papers（Coming Soon）
-- 2018-Reinforcement-Learning-Conferences-Papers（Coming Soon）
-- 2017-Reinforcement-Learning-Conferences-Papers（Coming Soon）
+| Repository                                                   |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [2023-Reinforcement-Learning-Conferences-Papers](https://github.com/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers) | <img alt="GitHub" src="https://img.shields.io/github/license/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2023-Reinforcement-Learning-Conferences-Papers"> |
+| [2022-Reinforcement-Learning-Conferences-Papers](https://github.com/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers) | <img alt="GitHub" src="https://img.shields.io/github/license/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Allenpandas/2022-Reinforcement-Learning-Conferences-Papers"> |
+| 2021-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
+| 2020-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
+| 2019-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
+| 2018-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
+| 2017-Reinforcement-Learning-Conferences-Papers               | （Coming Soon）                                              |
 
 ## Table of Contents
 
