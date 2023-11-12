@@ -33,7 +33,7 @@ For any questions, feel free to contact me 📮.
 
 
 
-### AAAI Conference on Artificial Intelligence
+## AAAI Conference on Artificial Intelligence
 
  - **Backprop-Free Reinforcement Learning with Active Neural Generative Coding.** [[pdf](https://doi.org/10.1609/aaai.v36i1.19876)]
    - Alexander G. Ororbia II, Ankur Arjun Mali.
@@ -170,15 +170,15 @@ For any questions, feel free to contact me 📮.
  - **VeNAS: Versatile Negotiating Agent Strategy via Deep Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v36i11.21669)]
    - Toki Takahashi, Ryota Higa, Katsuhide Fujita, Shinji Nakadai.
 
-### International Conference on Autonomous Agents and Multiagent Systems
+## International Conference on Autonomous Agents and Multiagent Systems
 
 
 
-### International Conference on Learning Representations
+## International Conference on Learning Representations
 
 
 
-### International Conference on Machine Learning
+## International Conference on Machine Learning
 
  - **EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning.** [[pdf](https://proceedings.mlr.press/v162/ao22a.html)]
    - Shuang Ao, Tianyi Zhou, Jing Jiang, Guodong Long, Xuan Song, Chengqi Zhang.
@@ -339,7 +339,7 @@ For any questions, feel free to contact me 📮.
  - **A Hierarchical Bayesian Approach to Inverse Reinforcement Learning with Symbolic Reward Machines.** [[pdf](https://proceedings.mlr.press/v162/zhou22b.html)]
    - Weichao Zhou, Wenchao Li.
 
-### International Conference on Robotics and Automation
+## International Conference on Robotics and Automation
 
  - **Nearest-Neighbor-based Collision Avoidance for Quadrotors via Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812221)]
    - Ramzi Ourari, Kai Cui, Ahmed Elshamanhory, Heinz Koeppl.
@@ -432,7 +432,7 @@ For any questions, feel free to contact me 📮.
  - **Reinforcement Learning as a Method for Tuning CPG Controllers for Underwater Multi-Fin Propulsion.** [[pdf](https://doi.org/10.1109/ICRA46639.2022.9812128)]
    - Anthony Drago, Gabe N. Carryon, James L. Tangorra.
 
-### International Joint Conference on Artificial Intelligence
+## International Joint Conference on Artificial Intelligence
 
  - **Toward Policy Explanations for Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2022/16)]
    - Kayla Boggess, Sarit Kraus, Lu Feng.
@@ -501,7 +501,7 @@ For any questions, feel free to contact me 📮.
  - **Interactive Reinforcement Learning for Symbolic Regression from Multi-Format Human-Preference Feedbacks.** [[pdf](https://doi.org/10.24963/ijcai.2022/849)]
    - Laure Crochepierre, Lydia Boudjeloud-Assala, Vincent Barbesant.
 
-### Annual Conference on Neural Information Processing Systems
+## Annual Conference on Neural Information Processing Systems
 
  - **Adaptive Interest for Emphatic Reinforcement Learning.** [[pdf](http://papers.nips.cc/paper_files/paper/2022/hash/008079ec00eec9760ee93af5434ee932-Abstract-Conference.html)]
    - Martin Klissarov, Rasool Fakoor, Jonas W. Mueller, Kavosh Asadi, Taesup Kim, Alexander J. Smola.
