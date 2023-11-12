@@ -232,7 +232,7 @@ For any questions, feel free to contact me 📮.
    - Manisha Senadeera, Thommen George Karimpanal, Sunil Gupta, Santu Rana. *AAMAS 2022*.
  - **Off-Policy Evolutionary Reinforcement Learning with Maximum Mutations.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1237.pdf)]
    - Karush Suri. *AAMAS 2022*.
- - ** Leveraging Hierarchy in Multimodal Perception for Robust Reinforcement Learning Agents.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf)]
+ - **Leveraging Hierarchy in Multimodal Perception for Robust Reinforcement Learning Agents.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1301.pdf)]
    - Miguel Vasco, Hang Yin, Francisco S. Melo, Ana Paiva. *AAMAS 2022*.
  - **Agent-Temporal Attention for Reward Redistribution in Episodic Multi-Agent Reinforcement Learning.** [[pdf](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1391.pdf)]
    - Baicen Xiao, Bhaskar Ramasubramanian, Radha Poovendran. *AAMAS 2022*.
